@@ -1,6 +1,13 @@
+<div align="center">
+
 # 📌 Estructuras de Datos - Implementación de Listas Doblemente Enlazadas  
 
-## 📖 Descripción  
+## 📖 Descripción
+
+</div>
+
+---
+
 Este proyecto implementa estructuras de datos avanzadas, centrándose en listas doblemente enlazadas para manipulación eficiente de datos.
 
 ## 🛠️ Funcionalidades  
@@ -20,3 +27,12 @@ Este proyecto implementa estructuras de datos avanzadas, centrándose en listas 
 
 ## 📌 Autor  
 👨‍💻 **Alejandro De Mendoza**
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
