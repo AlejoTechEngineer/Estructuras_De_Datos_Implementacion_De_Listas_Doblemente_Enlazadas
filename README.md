@@ -30,6 +30,23 @@ Este proyecto implementa estructuras de datos avanzadas, centrándose en listas 
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Crear lista doblemente enlazada] --> B[Nodo: prev - data - next]
+    B --> C{Operacion}
+    C --> D[Insercion al frente - O-1]
+    C --> E[Insercion al final - O-1]
+    C --> F[Eliminacion de nodo - O-1]
+    C --> G[Busqueda - O-n]
+    C --> H[Recorrido adelante / atras]
+    D & E & F --> I[Actualizar punteros prev y next]
+    G --> J[Nodo encontrado o no encontrado]
+    H --> K[Ordenamiento - algoritmos auxiliares]
+    I & K --> L[Lista actualizada]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
