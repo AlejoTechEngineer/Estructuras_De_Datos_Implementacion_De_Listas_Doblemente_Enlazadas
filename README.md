@@ -16,20 +16,6 @@ Este proyecto implementa estructuras de datos avanzadas, centrándose en listas 
 - Implementación de métodos auxiliares para ordenamiento.  
 - Aplicación en algoritmos de búsqueda y almacenamiento dinámico.  
 
-## 🚀 Tecnologías utilizadas  
-- C++ / Java / Python  
-- Algoritmos y estructuras de datos  
-
-## ▶️ Cómo ejecutar el proyecto  
-1. Compilar y ejecutar el código fuente en el lenguaje correspondiente.  
-2. Probar las operaciones de inserción, eliminación y búsqueda.  
-3. Evaluar el rendimiento en comparación con otras estructuras.  
-
-## 📌 Autor  
-👨‍💻 **Alejandro De Mendoza**
-
----
-
 ## Arquitectura
 
 ```mermaid
@@ -46,6 +32,20 @@ flowchart TD
     H --> K[Ordenamiento - algoritmos auxiliares]
     I & K --> L[Lista actualizada]
 ```
+
+## 🚀 Tecnologías utilizadas  
+- C++ / Java / Python  
+- Algoritmos y estructuras de datos  
+
+## ▶️ Cómo ejecutar el proyecto  
+1. Compilar y ejecutar el código fuente en el lenguaje correspondiente.  
+2. Probar las operaciones de inserción, eliminación y búsqueda.  
+3. Evaluar el rendimiento en comparación con otras estructuras.  
+
+## 📌 Autor  
+👨‍💻 **Alejandro De Mendoza**
+
+---
 
 ## Autor
 
